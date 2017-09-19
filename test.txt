@@ -1,1 +1,1 @@
-This is a test text file. - modified
+This is a test text file. Modified in conflict.
