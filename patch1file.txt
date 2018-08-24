@@ -1,2 +1,2 @@
 This is a file from patch 1. - modified.
-MOdified in branch 'leontclark-patch-1-rev1'
+MOdified in branch 'leontclark-patch-1-rev1'.
